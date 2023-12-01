@@ -50,6 +50,10 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
 - AWS
   - [AWS Cloud Bootcamp Project](https://www.youtube.com/watch?v=zA8guDqfv40)
 
+- Cilium
+   - [Cilium Labs](https://cilium.io/labs/)
+   - [Introduction to Cilium](https://training.linuxfoundation.org/training/introduction-to-cilium-lfs146x/)
+
 - SRE
   - [Site Reliability Engineering: How Google Runs Production Systems](https://sre.google/sre-book/table-of-contents/)
   - [Become a Rockstar SRE](https://www.packtpub.com/product/becoming-a-rockstar-sre/9781803239224#:~:text=With%20a%20focus%20on%20reliability,how%20of%20site%20reliability%20engineering.)
