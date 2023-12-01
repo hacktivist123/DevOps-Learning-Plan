@@ -60,7 +60,7 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
 
 
 ## Labs
-- [Iimuiz Labs](https://labs.iximiuz.com/)
+- [Iximuiz Labs](https://labs.iximiuz.com/)
 - [KodeKloud Labs](https://kodekloud.com)
 
 ## Projects
