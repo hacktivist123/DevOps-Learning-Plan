@@ -75,7 +75,7 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
 - [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
 ## Subscriptions that might be useful
-- [Oriely](https://oreilly.com)
+- [Oreilly](https://oreilly.com)
 - [Packt](https://www.packtpub.com)
 - [KodeKloud](kodekloud.com])
 - [A cloud guru](https://www.pluralsight.com/cloud-guru)
