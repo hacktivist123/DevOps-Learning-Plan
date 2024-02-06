@@ -30,6 +30,7 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
   - [Shell Scripts for Beginners](https://kodekloud.com/courses/shell-scripts-for-beginners/)
 - Containers
   - [Container Training](https://container.training/)
+  - [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
 
 - Kubernetes
   - [The complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
