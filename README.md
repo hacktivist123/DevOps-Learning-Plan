@@ -74,6 +74,7 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
   - Consul
   - Infisical
 - [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+- [Open Source DevOps/SRE Challenges](https://github.com/CollabChallenges/devops-challenges)
 
 ## Subscriptions that might be useful
 - [Oreilly](https://oreilly.com)
